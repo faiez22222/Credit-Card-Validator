@@ -1,6 +1,6 @@
 // C++ program to check if a given credit
 // card is valid or not.
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
 #define eb emplace_back
